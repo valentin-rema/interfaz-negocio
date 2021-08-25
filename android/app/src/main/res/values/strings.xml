@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">app_locales</string> 
+    <string name="facebook_app_id">349069306674546</string> 
+    <string name="fb_login_protocol_scheme">fb349069306674546</string>
+</resources>
